@@ -15,7 +15,7 @@
         "php": "^8.0",
         "graham-campbell/markdown": "^15.0",
         "webpatser/laravel-uuid": "^4.0",
-        "webuni/commonmark-attributes-extension": "^1.0.0",
+        "webuni/commonmark-attributes-extension": "^2.0.0",
         "doctrine/dbal": "^2.5",
         "sebastian/diff": "^5.0"
     },
